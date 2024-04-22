@@ -13,6 +13,7 @@ Do not believe what your tools say about the size of this card.
 Versions Included
 =================
 
+2024-04-22T1450-v5.3.0-mk4-RC1-coldcard.dfu
 2024-04-02T1416-v1.1.0Q-q1-coldcard.dfu
 2024-03-14T1419-v1.0.1Q-q1-coldcard.dfu
 2024-03-10T1537-v1.0.0Q-q1-coldcard.dfu
