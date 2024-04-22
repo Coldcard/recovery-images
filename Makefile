@@ -20,7 +20,8 @@ output.img: $(RELEASES) Makefile
 	ls -1 $(RELEASES) | sort -n > flist.txt
 	cat internal-readme.txt flist.txt > tmp.txt
 	$(MCOPY) -bsmp tmp.txt z:README.TXT
-	for f in $(RELEASES); do echo $$f ; \
+	for f in $(RELEASES); do \
+		echo $$f ; \
 		dd if=$$f obs=512 conv=osync status=none >> output.img; \
 	done
 	xz -cv9 < output.img > $(OUTPUT)
