@@ -13,6 +13,18 @@ Do not believe what your tools say about the size of this card.
 Versions Included
 =================
 
+2024-06-26T1741-v5.3.2-mk4-coldcard.dfu
+2024-06-26T1741-v5.3.2-mk4-coldcard-factory.dfu
+2024-06-26T1739-v1.2.2Q-q1-coldcard.dfu
+2024-06-26T1739-v1.2.2Q-q1-coldcard-factory.dfu
+2024-05-09T1529-v1.2.1Q-q1-coldcard.dfu
+2024-05-09T1529-v1.2.1Q-q1-coldcard-factory.dfu
+2024-05-09T1527-v5.3.1-mk4-coldcard.dfu
+2024-05-09T1527-v5.3.1-mk4-coldcard-factory.dfu
+2024-05-06T1812-v1.2.0Q-q1-coldcard.dfu
+2024-05-06T1812-v1.2.0Q-q1-coldcard-factory.dfu
+2024-05-06T1811-v5.3.0-mk4-coldcard.dfu
+2024-05-06T1811-v5.3.0-mk4-coldcard-factory.dfu
 2024-04-22T1450-v5.3.0-mk4-RC1-coldcard.dfu
 2024-04-02T1416-v1.1.0Q-q1-coldcard.dfu
 2024-03-14T1419-v1.0.1Q-q1-coldcard.dfu
