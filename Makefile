@@ -28,7 +28,6 @@ output.img: $(RELEASES) Makefile flist.txt
 	done
 	xz -cv9 < output.img > $(OUTPUT)
 	cat tmp.txt > $(OUTPUT:.img.xz=.txt)
-	git add $(OUTPUT:.img.xz=.*)
 	rm flist.txt
 	ls -l $(OUTPUT)
 	
